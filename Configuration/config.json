@@ -1,0 +1,25 @@
+{
+    "db": {
+        "driver": "ODBC Driver 17 for SQL Server",
+        "server": "server name",
+        "database": "DB name",
+        "trusted_connection": "yes"
+    },
+    "email":{
+        "sender":"sender@gmail.com",
+        "password":"gmail app password",
+        "receivers":["xyz@gmail.com","abc@gmail.com"]
+    },
+    "paths": {
+        "config": "config_path",
+        "csv_file": "csv_file_path",
+        "log_folder": "log_folder_path",
+        "report_folder": "report_folder_path",
+        "sql_folder": "sql_folder_path"
+    },
+    "scripts": {
+        "etl": "etl_script_path",
+        "report": "report_script_path",
+        "mail": "mail_script_path"
+    }
+}
