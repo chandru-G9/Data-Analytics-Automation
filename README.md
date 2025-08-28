@@ -39,12 +39,7 @@ Data analytics/
 │   └── run_all.log
 │
 ├── Reports/              # Auto-created, contains KPI reports
-│   ├── Reports_Attachments.zip
-│   └── email_log.log
-│   └── etl.log
-│   └── report_generation.log
-|    └── run_all.log
-│
+│   
 ├── SQL/                  # Folder containing query files
 │   ├── sales_kpis.sql
 │   └── customer_kpis.sql
